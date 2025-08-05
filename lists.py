@@ -25,7 +25,7 @@ print(my_list)
 my_list.sort()
 print(my_list)
 
-# printing value at index 30
+# printing index at value 30
 index_30=my_list.index(30)
 print(index_30)
 
